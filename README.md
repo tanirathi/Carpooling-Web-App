@@ -10,8 +10,8 @@ Responsive Design: Fully responsive web design for a seamless experience on any 
 Installation
 Clone the Repository
 
-git clone https://https://github.com/tanirathi/Carpool-Web-App
-cd Carpool-Web-App
+git clone https://https://github.com/tanirathi/Carpooling-Web-App
+cd Carpooling-Web-App
 Install Dependencies
 
 For the server:
